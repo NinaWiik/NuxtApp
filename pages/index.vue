@@ -1,6 +1,6 @@
 <template>
-  <h1>Nina</h1>
-    <h2>This is the change in my code, and I will commit it to my repository<h2>
+  <h1>Nina, This is the change in my code, and I will commit it to my repository</h1>
+    
 </template>
 
 <script>
